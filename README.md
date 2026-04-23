@@ -2,7 +2,7 @@
 This repository hosts my personal portfolio website, designed with a focus on clean architecture. It serves as a central hub for my technical projects, including frontend architecture and network security tools.   
 
 ## 🚀 Live Demo  
-You can view the live site here: **[willyhengwenloong.github.io](https://willyhengwenloong.github.io)** 
+You can view the live site here: **[willyhengwenloong.github.io/personal-site/index.html](https://willyhengwenloong.github.io/personal-site/index.html)** 
 
 ## 🛠️ Technical Stack  
 * **HTML5 & CSS3:** Semantic structure utilising CSS variables for maintainable design systems
