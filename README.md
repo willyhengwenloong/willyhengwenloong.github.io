@@ -12,6 +12,9 @@ You can view the live site here: **[willyhengwenloong.github.io/personal-site/in
 ## 📂 Featured Projects
 * **Unified System Dashboard:** A solution for information fragmentation in student workflow, emphasising low-latency data rendering.
 * **SDN DDoS Protection:** Technical implementation of network security using Mininet and Python to mitigate real-time attacks. 
+* **STUDY.AI:** A modular desktop productivity suite built with Flet (Python), designed to bridge the gap between fragmented information sources.By centralising video intelligence, documentation, and local data, it streamlines the learning workflow for developers and students alike. 
+* **DeclutterMind:** A modular desktop productivity suite built with Python and CustomTkinter, designed to help students and developers organize fragmented thoughts, study notes, and references onto a seamless infinite canvas.
+ 
 
 ## ⚙️ Local Development  
 To run this project locally:  
